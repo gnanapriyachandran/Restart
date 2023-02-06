@@ -1,3 +1,3 @@
 # Restart
 
-![](Restart.gif)
+![](Restart2.gif)
